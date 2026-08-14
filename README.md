@@ -16,7 +16,7 @@ Enhancing Adventist worship in local languages.
 Compiled: https://github.com/rejnac/compiled-hymnal
 
 # VideoPsalm 
-Install VideoPsalm and follow these 3 steps to start projecting;
+Install VideoPsalm (free) and follow these 3 steps to start projecting;
  
 1. Download the (.vpc) file from this repo
 2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside songbooks)
